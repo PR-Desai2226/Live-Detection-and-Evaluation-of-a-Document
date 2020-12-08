@@ -1,3 +1,3 @@
 # Live-Detection-and-Evaluation-of-a-Document
 Live Detection and Evaluation of a Document
-![](Report.docx.pdf)
+![](https://github.com/PR-Desai2226/Live-Detection-and-Evaluation-of-a-Document/blob/master/Report.docx.pdf)
