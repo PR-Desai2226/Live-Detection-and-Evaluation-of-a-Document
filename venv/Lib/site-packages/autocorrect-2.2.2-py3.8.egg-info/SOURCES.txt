@@ -1,0 +1,10 @@
+setup.py
+autocorrect/__init__.py
+autocorrect/constants.py
+autocorrect/typos.py
+autocorrect/word_count.py
+autocorrect.egg-info/PKG-INFO
+autocorrect.egg-info/SOURCES.txt
+autocorrect.egg-info/dependency_links.txt
+autocorrect.egg-info/top_level.txt
+autocorrect/data/en.tar.gz

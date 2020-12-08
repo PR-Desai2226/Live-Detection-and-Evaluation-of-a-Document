@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: intel-tensorflow
+Version: 0.0.1
+Summary: Intel Optimized Tensorflow with MKL
+Home-page: https://github.com/IntelAI
+Author: Intel Tensorflow optimization team
+Author-email: intelnervana@intel.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: System :: Distributed Computing
+Description-Content-Type: text/markdown
+Requires-Dist: pip (>=10.0.1)
+
+# intel_tensorflow
+
+

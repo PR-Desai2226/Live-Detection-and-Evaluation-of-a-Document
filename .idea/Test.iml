@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (Test)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="CompNet" />
+    <orderEntry type="module" module-name="Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow-master" />
+    <orderEntry type="module" module-name="Subjective-Answer-Evaluation-master" />
+  </component>
+</module>

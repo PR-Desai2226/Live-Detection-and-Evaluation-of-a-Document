@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CompNet/.idea/CompNet.iml" filepath="$PROJECT_DIR$/../CompNet/.idea/CompNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow-master/.idea/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow-master.iml" filepath="$PROJECT_DIR$/../Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow-master/.idea/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Subjective-Answer-Evaluation-master/.idea/Subjective-Answer-Evaluation-master.iml" filepath="$PROJECT_DIR$/../Subjective-Answer-Evaluation-master/.idea/Subjective-Answer-Evaluation-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test.iml" filepath="$PROJECT_DIR$/.idea/Test.iml" />
+    </modules>
+  </component>
+</project>

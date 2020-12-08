@@ -1,0 +1,3 @@
+[console_scripts]
+intel_tesorflow = intel_tessorflow.main:main
+
